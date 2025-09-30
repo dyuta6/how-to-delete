@@ -14,11 +14,11 @@ This action cannot be undone.
 Data we may retain
 We do not retain personal data after deletion, except where we are legally required to keep limited records (e.g., fraud prevention or compliance). Such records, if any, are kept for the minimum period required by law and are not used for marketing.
 If you cannot access the app
-Email us from your registered email address with the subject “Account Deletion Request” at support@qapinda.az.
+Email us from your registered email address with the subject “Account Deletion Request” at elsenceferli1019@gmail.com
 Include your full name and phone number (if on file) for verification.
 We will verify the request and delete the account within 7 business days.
 Contact
-Email: support@qapinda.az
+Email: elsenceferli1019@gmail.com
 Processing time
 In‑app deletions are immediate.
 Email requests are processed within 7 business days.
